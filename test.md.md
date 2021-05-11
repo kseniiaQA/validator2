@@ -13,8 +13,8 @@
 ## Описание процесса тестирования
 В процессе тестирования использовались следующие артефакты:
  
-1. чек-лист https://docs.google.com/spreadsheets/d/1rmSIVrxh6h517mhAtBw1NgjW0x4kDdFbQPgvjby8CjY/edit#gid=0
-2. тест-кейс https://docs.google.com/spreadsheets/d/1rmSIVrxh6h517mhAtBw1NgjW0x4kDdFbQPgvjby8CjY/edit#gid=1623179314
+1. чек-лист  https://docs.google.com/spreadsheets/d/1rmSIVrxh6h517mhAtBw1NgjW0x4kDdFbQPgvjby8CjY/edit#gid=202797838
+2. тест-кейс https://docs.google.com/spreadsheets/d/1rmSIVrxh6h517mhAtBw1NgjW0x4kDdFbQPgvjby8CjY/edit#gid=64100574 
 
 ### В качестве тестовых данных использовались данные <указать источник, откуда брались тестовые данные:
 
