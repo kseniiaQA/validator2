@@ -6,7 +6,7 @@
 
 ## В результате тестирования выявлены следующие дефекты:
 
-### [ issue 1] (https://github.com/kseniia-tester/validator2/issues/1#issue-878651496) 
+### ([ issue 1]) (https://github.com/kseniia-tester/validator2/issues/1#issue-878651496) 
 ### [ issue 2] (https://github.com/kseniia-tester/validator2/issues/2#issue-878653982)
 ### [ issue 3] (https://github.com/kseniia-tester/validator2/issues/3#issue-878656591)
 
