@@ -6,9 +6,9 @@
 
 ## В результате тестирования выявлены следующие дефекты:
 
-### https://github.com/kseniia-tester/validator2/issues/1#issue-878651496 
-### https://github.com/kseniia-tester/validator2/issues/2#issue-878653982
-### https://github.com/kseniia-tester/validator2/issues/3#issue-878656591
+### [ issue 1] https://github.com/kseniia-tester/validator2/issues/1#issue-878651496 
+### [ issue 2] https://github.com/kseniia-tester/validator2/issues/2#issue-878653982
+### [ issue 3] https://github.com/kseniia-tester/validator2/issues/3#issue-878656591
 
 ## Описание процесса тестирования
 В процессе тестирования использовались следующие артефакты:
